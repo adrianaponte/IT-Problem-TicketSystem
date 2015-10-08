@@ -1,7 +1,7 @@
 package finalPackage;
 //Adrian Aponte
 //ITMD411 Final Project
-// A help desk trouble ticket system using JDBC and SQL
+// A help desk trouble ticket system using JDBC and SQL. Allows user to insert, view, update, and delete tickets.
 import java.sql.*;
 import java.util.Random;
 import java.util.Scanner;
