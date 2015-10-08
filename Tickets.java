@@ -22,7 +22,7 @@ public class Tickets {
 	      Class.forName("com.mysql.jdbc.Driver");
 	      // Setup the connection with the DB
 	      connect = DriverManager.getConnection("jdbc:mysql://www.papademas.net/tickets?"
-	              + "user=root&password=jamesp");
+	              + "user=****&password=*****");
 	      System.out.println("Connected Succesfully...");
 	      //create table
 	    
